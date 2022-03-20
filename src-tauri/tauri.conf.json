@@ -44,7 +44,6 @@
         "certificateThumbprint": null,
         "digestAlgorithm": "sha256",
         "timestampUrl": "",
-        "webviewFixedRuntimePath": "./Microsoft.WebView2.FixedVersionRuntime.99.0.1150.46.x86/"
       }
     },
     "updater": {
